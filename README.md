@@ -1,7 +1,6 @@
 <h2 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50"> Hi! I'm Ayush Bhardwaj <img src="https://www.readnreturn.co.in/wp-content/uploads/2019/12/AW1381117_00-1.gif" width="80"></h2>
 
-
-![Total Profile Views]()
+[![Total Profile Views](http://hits.dwyl.com/hastagAB/hastagAB.svg)](http://hits.dwyl.com/hastagAB/hastagAB)
 [![Twitter: HastagAB](https://img.shields.io/twitter/follow/HastagAB?style=social)](https://twitter.com/HastagAB)
 [![Linkedin: HastagAB](https://img.shields.io/badge/-hastagab-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hastagab/)](https://www.linkedin.com/in/hastagab/)
 [![GitHub hastagAB](https://img.shields.io/github/followers/hastagAB?label=follow&style=social)](https://github.com/hastagAB)
