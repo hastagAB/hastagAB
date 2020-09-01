@@ -6,7 +6,7 @@
 [![GitHub hastagAB](https://img.shields.io/github/followers/hastagAB?label=follow&style=social)](https://github.com/hastagAB)
 
 
-*I'm an Inquisitive Thinker :bulb: and a Python Developer <img src="https://lh3.googleusercontent.com/proxy/wgUo249j-KkutCL9pRRUwL60Bwi9xZxy7RqjslSz1ukQLNP7yOATqiAN_Bx1H6T7EFvMeH4SfGEbRK4-R-uwqS987qPkUGfb-OIy0ikJB24u" width="15"> who has his commitments towards Data Science :bar_chart:. Being an active Open Source contributor <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="15"> and an innovator, I love developing research-oriented disruptive projects <img src="https://www.georgiancollege.ca/wp-content/uploads/lightbulb.gif" width="30">*
+*I'm an Inquisitive Thinker :bulb: and a Python Developer <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="15"> who has his commitments towards Data Science :bar_chart:. Being an active Open Source contributor <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="15"> and an innovator, I love developing research-oriented disruptive projects <img src="https://www.georgiancollege.ca/wp-content/uploads/lightbulb.gif" width="30">*
 
 <img align='right' src="https://thumbs.gfycat.com/EvilNextDevilfish-size_restricted.gif" width="400">
 
@@ -16,7 +16,7 @@
 - I'm continuoulsy developing & maintaining [Nirjas](https://github.com/fossology/Nirjas) & [Atarashi](https://github.com/fossology/atarashi) project. :warning: *Help Wanted* :warning:
 - 🌱 My Research domain includes `NLP` :speech_balloon: & `Data Science` :bar_chart:
 - :bulb: Inventions: Drishti-Pay & Rodasi (Patent Pending :hourglass_flowing_sand:)
-- <p> :computer: I work mostly with: Python <img src="https://lh3.googleusercontent.com/proxy/wgUo249j-KkutCL9pRRUwL60Bwi9xZxy7RqjslSz1ukQLNP7yOATqiAN_Bx1H6T7EFvMeH4SfGEbRK4-R-uwqS987qPkUGfb-OIy0ikJB24u" width="15"></p>
+- <p> :computer: I work mostly with: Python <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="15"></p>
 - 🌍 I'm mostly active on [LinkedIn](https://www.linkedin.com/in/hastagab/) & [Twitter](https://twitter.com/HastagAB) (Send a Hi! :wave:)
 - 📫 Drop a mail: [classicayush@gmail.com](classicayush@gmail.com)
 - <img src="https://media.giphy.com/media/d9IfL7seBexHLct75B/giphy.gif" width="15"> Follow me on [GitHub](https://github.com/hastagAB) <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="15">
