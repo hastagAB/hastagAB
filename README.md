@@ -11,8 +11,9 @@
 <img align='right' src="https://thumbs.gfycat.com/EvilNextDevilfish-size_restricted.gif" width="400">
 
 
-- 👨‍💻 I'm currently working on two really Innovative projects for social cause with [sjha2048](https://github.com/sjha2048) & [Kaushl2208](https://github.com/Kaushl2208)
-- <p>:octocat: I've previously worked with <a href="https://github.com/fossology">@FOSSology</a> in Google Summer of Code <img src="https://summerofcode.withgoogle.com/static/img/og-image.png" width="15"> <a href="https://github.com/hastagAB/GSoC-19">2019</a> & <a href="https://github.com/hastagAB/GSoC-2020">2020</a> </p>
+-  👨‍💻 On weekdays, I work as a **Software Performace Engineer** at [ZS](https://www.zs.com/) 
+-  👨‍💻 On weekends, I mostly work on a few innovative projects for social cause with [sjha2048](https://github.com/sjha2048) & [Kaushl2208](https://github.com/Kaushl2208).
+- <p>:octocat: I've previously worked with <a href="https://github.com/fossology">@FOSSology</a> as a <strong>Student Developer</strong> in Google Summer of Code <img src="https://summerofcode.withgoogle.com/static/img/og-image.png" width="15"> <a href="https://github.com/hastagAB/GSoC-19">2019</a> & <a href="https://github.com/hastagAB/GSoC-2020">2020</a> and I continued working as a mentor in GSoC'21</p> 
 - I'm continuoulsy developing & maintaining [Nirjas](https://github.com/fossology/Nirjas) & [Atarashi](https://github.com/fossology/atarashi) project. :warning: *Help Wanted* :warning:
 - 🌱 My Research domain includes `NLP` :speech_balloon: & `Data Science` :bar_chart:
 - :bulb: Inventions: Drishti-Pay & Rodasi (Patent Pending :hourglass_flowing_sand:)
