@@ -13,7 +13,7 @@
 
 -  👨‍💻 On weekdays, I work as a **Software Performace Engineer** at [ZS](https://www.zs.com/) 
 -  👨‍💻 On weekends, I mostly work on a few innovative projects for social cause with [sjha2048](https://github.com/sjha2048) & [Kaushl2208](https://github.com/Kaushl2208).
-- <p>:octocat: I've previously worked with <a href="https://github.com/fossology">@FOSSology</a> as a <strong>Student Developer</strong> in Google Summer of Code <img src="https://summerofcode.withgoogle.com/static/img/og-image.png" width="15"> <a href="https://github.com/hastagAB/GSoC-19">2019</a> & <a href="https://github.com/hastagAB/GSoC-2020">2020</a> and I continued working as a mentor in GSoC'21</p> 
+- <p>:octocat: I've previously worked with <a href="https://github.com/fossology">@FOSSology</a> as a <strong>Student Developer</strong> in Google Summer of Code <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Google_Summer_of_Code_sun_logo_2022.svg/1200px-Google_Summer_of_Code_sun_logo_2022.svg.png" width="15"> <a href="https://github.com/hastagAB/GSoC-19">2019</a> & <a href="https://github.com/hastagAB/GSoC-2020">2020</a> and I continued working as a mentor in GSoC'21</p> 
 - I'm continuoulsy developing & maintaining [Nirjas](https://github.com/fossology/Nirjas) & [Atarashi](https://github.com/fossology/atarashi) project. :warning: *Help Wanted* :warning:
 - 🌱 My Research domain includes `NLP` :speech_balloon: & `Data Science` :bar_chart:
 - :bulb: Inventions: Drishti-Pay & Rodasi (Patent Pending :hourglass_flowing_sand:)
@@ -24,6 +24,6 @@
 
 <img src="https://media.giphy.com/media/l4FGDXzlX3p5U9zJS/giphy.gif" width="20"> *Fun fact I: I love solving real-world problems using Technology* <img src="https://ayfaatechnology.com/wp-content/themes/ayfaa-theme/ayfaa/images/home.gif" width="50">
 
-<img src="https://media.giphy.com/media/l4FGDXzlX3p5U9zJS/giphy.gif" width="20"> *Fun fact II: I love Chai <img src="https://cdn.pixabay.com/photo/2019/12/06/04/03/tea-4676561_960_720.png" width="15"> and <a href="https://ayushbhardwaj.me/poems.php">Poetry</a><img src="https://next3-assets.s3.amazonaws.com/journeys/18/description_backgrounds-1423860386-writing_intro.gif" width="15">. Ping me to listen more!*
+<img src="https://media.giphy.com/media/l4FGDXzlX3p5U9zJS/giphy.gif" width="20"> *Fun fact II: I love Chai <img src="https://cdn.pixabay.com/photo/2019/12/06/04/03/tea-4676561_960_720.png" width="15"> and <a href="https://ayushbhardwaj.net/poems.php">Poetry</a><img src="https://next3-assets.s3.amazonaws.com/journeys/18/description_backgrounds-1423860386-writing_intro.gif" width="15">. Ping me to listen more!*
 
 [![](https://img.shields.io/badge/Made%20With%20❤️%20By-HastagAB-red)](https://github.com/hastagAB)
