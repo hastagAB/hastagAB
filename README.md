@@ -6,13 +6,14 @@
 [![GitHub hastagAB](https://img.shields.io/github/followers/hastagAB?label=follow&style=social)](https://github.com/hastagAB)
 
 
-*I'm an Inquisitive Thinker :bulb: and a Python Developer <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="15"> who has his commitments towards Data Science :bar_chart:. Being an active Open Source contributor <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="15"> and an innovator, I love developing research-oriented disruptive projects <img src="https://www.georgiancollege.ca/wp-content/uploads/lightbulb.gif" width="30">*
+*I'm an Inquisitive Thinker :bulb: and a Developer 👨‍💻 who has his commitments towards Society 🧑‍🤝‍🧑 . Being an active Open Source contributor <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="15"> and an innovator, I love developing research-oriented disruptive projects <img src="https://www.georgiancollege.ca/wp-content/uploads/lightbulb.gif" width="30">*
 
 <img align='right' src="https://thumbs.gfycat.com/EvilNextDevilfish-size_restricted.gif" width="400">
 
 
--  👨‍💻 On weekdays, I work as a **Software Performace Engineer** at [ZS](https://www.zs.com/) 
--  👨‍💻 On weekends, I mostly work on a few innovative projects for social cause with [sjha2048](https://github.com/sjha2048) & [Kaushl2208](https://github.com/Kaushl2208).
+-  👨‍🎓 A full-time Grad Student at [Politecnico di Milano](https://www.polimi.it/), Italy 🇮🇹
+-  👨‍💻 Previously, I worked as a **Software Performace Engineer** at [ZS Associates](https://www.zs.com/) 
+-  👨‍💻 In my free time I work on a few innovative projects for social cause.
 - <p>:octocat: I've previously worked with <a href="https://github.com/fossology">@FOSSology</a> as a <strong>Student Developer</strong> in Google Summer of Code <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Google_Summer_of_Code_sun_logo_2022.svg/1200px-Google_Summer_of_Code_sun_logo_2022.svg.png" width="15"> <a href="https://github.com/hastagAB/GSoC-19">2019</a> & <a href="https://github.com/hastagAB/GSoC-2020">2020</a> and I continued working as a mentor in GSoC'21</p> 
 - I'm continuoulsy developing & maintaining [Nirjas](https://github.com/fossology/Nirjas) & [Atarashi](https://github.com/fossology/atarashi) project. :warning: *Help Wanted* :warning:
 - 🌱 My Research domain includes `NLP` :speech_balloon: & `Data Science` :bar_chart:
