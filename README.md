@@ -9,7 +9,7 @@
 
 <img align='right' src="https://thumbs.gfycat.com/EvilNextDevilfish-size_restricted.gif" width="400">
 
-- 👨‍🎓 Currently pursuing my Master's at [Politecnico di Milano](https://www.polimi.it/), Italy 🇮🇹
+- 👨‍🎓 Computer Science Grad at [Politecnico di Milano](https://www.polimi.it/), Italy 🇮🇹
 - 🌐 Vice President at [Indian Students Association, PoliMi](https://www.instagram.com/isa.polimi)
 - 👨‍💻 Former **Software Performance Engineer** at [ZS Associates](https://www.zs.com/)
 - 💼 MLH Fall '24 Fellow; worked on [AudioSeal](https://github.com/facebookresearch/AudioSeal) with [Facebook Research](https://github.com/facebookresearch)
