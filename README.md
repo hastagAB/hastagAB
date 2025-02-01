@@ -17,7 +17,7 @@
 - 🚀 Actively developing & maintaining [Nirjas](https://github.com/fossology/Nirjas) & [Atarashi](https://github.com/fossology/atarashi) :warning: *Contributions Welcome* :warning:
 - 📝 Published 3 Research Papers | 3 Patents Filed
 - 💡 Inventions: Drishti-Pay & Rodasi (Patent Pending :hourglass_flowing_sand:)
-- 🌍 Working with [FOSSology](https://github.com/fossology) as a GSoC Student Developer (2019, 2020) and GSoC Mentor (2021-ongoing)
+- 🌍 Working with [FOSSology](https://github.com/fossology) for [Google Summer of Code](https://fossology.github.io/gsoc/) ⭐
 - 🌍 Connect on [LinkedIn](https://www.linkedin.com/in/hastagab/) & [Twitter](https://twitter.com/HastagAB) (Drop a Hi! :wave:)
 - 📫 Reach out: [classicayush@gmail.com](mailto:classicayush@gmail.com)
 - <img src="https://media.giphy.com/media/d9IfL7seBexHLct75B/giphy.gif" width="15"> Follow me on [GitHub](https://github.com/hastagAB)
