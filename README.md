@@ -9,8 +9,8 @@
 
 <img align='right' src="https://thumbs.gfycat.com/EvilNextDevilfish-size_restricted.gif" width="400">
 
+- 👨‍💻 Co-founder and CTO @[Agentibus.ai](https://www.agentibus.ai/) (_The European Agentic AI Lab_) 🚀
 - 👨‍🎓 Computer Science Grad at [Politecnico di Milano](https://www.polimi.it/), Italy 🇮🇹
-- 🌐 Vice President at [Indian Students Association, PoliMi](https://www.instagram.com/isa.polimi)
 - 👨‍💻 Former **Software Performance Engineer** at [ZS Associates](https://www.zs.com/)
 - 💼 MLH Fall '24 Fellow; worked on [AudioSeal](https://github.com/facebookresearch/AudioSeal) with [Facebook Research](https://github.com/facebookresearch)
 - 📊 Research Focus: Sustainable Data Quality in LLMs, NLP & Data Science for Social Good
