@@ -9,6 +9,8 @@
 
 <img align='right' src="https://thumbs.gfycat.com/EvilNextDevilfish-size_restricted.gif" width="400">
 
+- 👨‍🎓 Building Agentic AI Systems at [Siemens](https://www.siemens.com/)
+- 👨‍🎓 Previously worked as a Co-founder & CTO for a Stealth Agentic AI startup
 - 👨‍🎓 Computer Science Grad at [Politecnico di Milano](https://www.polimi.it/), Italy 🇮🇹
 - 👨‍💻 Former **Software Performance Engineer** at [ZS Associates](https://www.zs.com/)
 - 💼 MLH Fall '24 Fellow; worked on [AudioSeal](https://github.com/facebookresearch/AudioSeal) with [Facebook Research](https://github.com/facebookresearch)
